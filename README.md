@@ -6,7 +6,7 @@
   </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waicode&count_private=true&bg_color=fff" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waicode&count_private=true&langs_count=10&bg_color=fff" />
     </a>
   </div>
 </div>

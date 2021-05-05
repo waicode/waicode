@@ -1,7 +1,7 @@
 <div style="display: flex;">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=waicode&count_private=true&show_icons=true&bg_color=fff" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=waicode&count_private=true&show_icons=true&bg_color=fff&hide=stars,issues,contribs" />
     </a>
   </div>
   <div>
